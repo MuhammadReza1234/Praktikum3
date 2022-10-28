@@ -1,6 +1,6 @@
-# Nama = Muhammad Reza Maulana
-# NIM = 312210303
-# Kelas = TI.22.A3
+# Nama   = Muhammad Reza Maulana
+# NIM    = 312210303
+# Kelas  = TI.22.A3
 
 # Latihan 1 
 
