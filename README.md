@@ -23,6 +23,7 @@ print('Z')
 
 
 ## Penggunaan Seperator
+sep adalah pemisah (separator) yang berfungsi sebagai tanda pemisah antar objek yang dicetak. Defaultnya adalah tanda spasi.
 ```
 w, x, y, z = 10, 15, 20, 25
 print(w, x, y, z)
@@ -31,15 +32,10 @@ print(w, x, y, z, sep='')
 print(w, x, y, z, sep=':')
 print(w, x, y, z, sep='-----')
 ```
-
-
 ![Screenshot (132)](https://user-images.githubusercontent.com/115542704/197803903-c5ac84d1-5bda-446c-a55c-b227f6a8189d.png)
 
-
-
-
 ## String Format 
-String Formatting atau Pemformatan string memungkinkan kita menyuntikkan item ke dalam string daripada kita mencoba menggabungkan string menggunakan koma atau string concatenation. 
+String formatting pada python adalah satu proses memasukkan atau menyisipkan variabel atau nilai ke dalam template string yang telah ditentukan
 ```
 # string format
 print(0, 10**0)
