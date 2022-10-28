@@ -51,7 +51,6 @@ print(9, 10**9)
 print(10, 10**10)
 ```
 
-
 ![Screenshot (131)](https://user-images.githubusercontent.com/115542704/197804071-d6fd54b5-13a1-4b61-b8ac-b3a15ac357ee.png)
 
 
@@ -115,7 +114,7 @@ b=int(b)
 
 
 ## Konversi Nilai Variable
-Mencetak kembali hasil mengkonversi nilai kedua variabel  
+Mencetak kembali hasil konversi nilai kedua variabel  
 ```
 print("hasil penjumlahan {1}+{0}=%d".format(a,b) %(a+b))
 print("hasil pembagian {1}+{0}=%d".format(a,b) %(a/b))
