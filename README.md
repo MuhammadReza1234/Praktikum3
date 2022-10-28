@@ -130,13 +130,13 @@ print("hasil pembagian {1}+{0}=%d".format(a,b) %(a/b))
 
 <img width="692" alt="reza11" src="https://user-images.githubusercontent.com/115516607/198474429-5a1ab7fe-fc53-49fb-a083-7b1ef1df1ec0.png">
 
-# Latihan 4 Luas Lingkaran
+# Latihan 4 Luas dan keliling Lingkaran
 
-## Flowchart untuk mencari Luas Lingkaran 
+## Flowchart untuk mencari Luas dan keliling  Lingkaran 
 
 ![Flowchart-menghitung-luas-keliling-lingkaran-1](https://user-images.githubusercontent.com/115542704/198233052-6978bcd6-30e5-4042-ba37-48b7d8ca8acd.png)
 
-## Membuat Program untuk Mencari Luas Lingkaran
+## Membuat Program untuk Mencari Luas dan keliling Lingkaran
 Rumus Luas Lingkaran adalah phi * (r * r) atau phi * r² 
 
 Rumus Keliling Lingkaran adalah 2 * phi * r
@@ -158,11 +158,12 @@ K = 2 * phi * r
 ```
 ## Mencetak Hasil Luas dan keliling Lingkaran
 ```
-print('Luas dan keliling lingkaran dengan jari-jari {} adalah {}'.format(r, L))
+print('Luas lingkaran dengan jari-jari {} adalah {}'.format(r, L))
+print('Keliling lingkaran dengan jari-jari {} adalah {}'.format(r, K))
 ```
 <img width="437" alt="Screenshot (146)" src="https://user-images.githubusercontent.com/115542704/198237416-2da1eaf4-aa25-4a58-b04a-dee312ed89cd.png">
 
-## Hasil Latihan 4 Luas Lingkaran
+## Hasil Latihan 4 Luas dan keliling Lingkaran
 
 <img width="321" alt="reza13" src="https://user-images.githubusercontent.com/115516607/198475104-99ad5042-3f09-4d90-8ef9-785d16a16714.png">
 
