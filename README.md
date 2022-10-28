@@ -129,11 +129,12 @@ print("hasil pembagian {1}+{0}=%d".format(a,b) %(a/b))
 
 ## Hasil Latihan 2
 
-![Screenshot (137)](https://user-images.githubusercontent.com/115542704/197817527-0c1424c9-d1cb-4ae3-892e-5c688fbfb5e2.png)
+<img width="181" alt="reza10" src="https://user-images.githubusercontent.com/115516607/198473945-959b8997-e43e-43a8-a42b-a7562956674f.png">
+
 
 # Latihan 3 Menggunakan String Format untuk membuat Belah Ketupat
 
-![Screenshot (144)](https://user-images.githubusercontent.com/115542704/198204689-4a57ddc7-68ed-4b07-928c-adbd97645b01.png)
+<img width="692" alt="reza11" src="https://user-images.githubusercontent.com/115516607/198474429-5a1ab7fe-fc53-49fb-a083-7b1ef1df1ec0.png">
 
 # Latihan 4 Luas Lingkaran
 
@@ -168,6 +169,7 @@ print('Luas dan keliling lingkaran dengan jari-jari {} adalah {}'.format(r, L))
 <img width="437" alt="Screenshot (146)" src="https://user-images.githubusercontent.com/115542704/198237416-2da1eaf4-aa25-4a58-b04a-dee312ed89cd.png">
 
 ## Hasil Latihan 4 Luas Lingkaran
-<img width="323" alt="Screenshot (147)" src="https://user-images.githubusercontent.com/115542704/198237674-d5751c8b-f99a-441b-9d1d-702414e4b023.png">
+
+<img width="321" alt="reza13" src="https://user-images.githubusercontent.com/115516607/198475104-99ad5042-3f09-4d90-8ef9-785d16a16714.png">
 
 # =======SEKIAN TERIMAKASIH=========
