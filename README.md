@@ -3,6 +3,7 @@
 # Kelas = TI.22.A3
 
 # Latihan 1 
+
 ## Penggunaan end
 
   Parameter akhir dalam fungsi cetak digunakan untuk menambahkan string apa pun. Di akhir output dari pernyataan print dengan python.
@@ -135,6 +136,7 @@ print("hasil pembagian {1}+{0}=%d".format(a,b) %(a/b))
 ![Screenshot (144)](https://user-images.githubusercontent.com/115542704/198204689-4a57ddc7-68ed-4b07-928c-adbd97645b01.png)
 
 # Latihan 4 Luas Lingkaran
+
 ## Flowchart untuk mencari Luas Lingkaran 
 
 ![Flowchart-menghitung-luas-keliling-lingkaran-1](https://user-images.githubusercontent.com/115542704/198233052-6978bcd6-30e5-4042-ba37-48b7d8ca8acd.png)
