@@ -172,4 +172,4 @@ print('Luas dan keliling lingkaran dengan jari-jari {} adalah {}'.format(r, L))
 
 <img width="321" alt="reza13" src="https://user-images.githubusercontent.com/115516607/198475104-99ad5042-3f09-4d90-8ef9-785d16a16714.png">
 
-# =======SEKIAN TERIMAKASIH=========
+# =======SEKIAN TUTORIAL DARI SAYA TERIMAKASIH=========
